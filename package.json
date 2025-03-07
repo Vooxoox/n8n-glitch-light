@@ -1,0 +1,14 @@
+{
+  "name": "n8n-glitch",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "n8n"
+  },
+  "dependencies": {
+    "n8n": "1.60.1"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
